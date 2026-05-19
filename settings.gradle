@@ -1,0 +1,3 @@
+rootProject.name = 'carrot'
+include 'chat-send'
+include 'chat-reply'
