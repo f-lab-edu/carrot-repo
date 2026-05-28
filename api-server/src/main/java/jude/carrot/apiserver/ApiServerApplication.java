@@ -1,11 +1,11 @@
-package jude.carrot.chatsend;
+package jude.carrot.apiserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ChatSendApplication {
+public class ApiServerApplication {
     public static void main(String[] args) {
-        SpringApplication.run(ChatSendApplication.class,args);
+        SpringApplication.run(ApiServerApplication.class,args);
     }
 }

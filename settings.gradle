@@ -1,3 +1,4 @@
-rootProject.name = 'carrot'
-include 'chat-send'
-include 'chat-reply'
+include 'api-server'
+include 'ffmpeg-server'
+include 'chat-server'
+includeBuild 'build-src'
